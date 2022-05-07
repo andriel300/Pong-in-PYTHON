@@ -1,2 +1,2 @@
 # Pong-in-PYTHON
-# Pong-in-PYTHON
+# Clássico Jogo Pong no Python
